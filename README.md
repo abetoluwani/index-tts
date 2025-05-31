@@ -4,7 +4,7 @@
 </div>
 
 
-<h2><center>IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System</h2>
+<h2><center>CAK: Voice Cloning Dashboard MVP</h2>
 
 <p align="center">
 <a href='https://arxiv.org/abs/2502.05512'><img src='https://img.shields.io/badge/ArXiv-2502.05512-red'></a>
@@ -239,7 +239,7 @@ tts.infer(voice, text, output_path)
 
 ```
 @article{deng2025indextts,
-  title={IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System},
+  title={CAK: Voice Cloning Dashboard MVP},
   author={Wei Deng, Siyi Zhou, Jingchen Shu, Jinchao Wang, Lu Wang},
   journal={arXiv preprint arXiv:2502.05512},
   year={2025}
